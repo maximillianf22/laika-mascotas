@@ -1,5 +1,5 @@
 <template>
-  <a target="_blank">
+  <a href="#" target="_blank">
     <div class="suggestions-bubble-container bg-danger py-3 px-2">
       <span class="suggest">
         <i class="fas fa-comment-alt fa-lg mb-2"></i>

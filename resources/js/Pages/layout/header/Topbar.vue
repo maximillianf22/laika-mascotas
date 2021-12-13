@@ -18,7 +18,7 @@
       <div class="flex-fill bd-highlight text-end">
         <span class="text-sm text-white border-end px-3">
           Llámanos
-          <a href="https://youtube.com" class="navbar-link text-decoration-none" target="_blank">
+          <a href="tel:+3009108496" class="navbar-link text-decoration-none" target="_blank">
             <i class="fas fa-phone-square fa-lg px-2 lh-2"></i>
             3009108496
           </a>

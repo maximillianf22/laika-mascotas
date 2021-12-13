@@ -1,5 +1,5 @@
 <template>
-  <a target="_blank">
+  <a href="tel:+3009108496" target="_blank">
     <div class="messenger-bubble-container">
       <i class="fa fa-sms fa-2x p-2"></i>
     </div>
