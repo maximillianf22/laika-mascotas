@@ -1,0 +1,18 @@
+.card-title-product {
+    height: 50px;
+}
+
+.sticker-discount {
+    left: 80%;
+    &-text {
+        left: 17px;
+        top: 19px;
+    }
+}
+
+.card-product {
+    &-img {
+        width: fit-content;
+        height: 190px;
+    }
+}

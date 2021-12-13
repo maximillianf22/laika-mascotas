@@ -1,0 +1,17 @@
+.img-brand {
+    width: 100px;
+    height: 100px;
+}
+
+.carousel__prev,
+.carousel__next {
+    background-color: $primary !important;
+}
+
+.carousel__pagination-button {
+    background-color: #bca9d1;
+}
+
+.carousel__pagination-button--active {
+    background-color: $primary;
+}

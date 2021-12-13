@@ -1,0 +1,60 @@
+.btn {
+    &-outline-purple {
+        padding-top: 11px;
+        padding-bottom: 11px;
+        color: $primary;
+        border-color: $primary;
+    }
+    &-purple {
+        color: #fff;
+        background-color: $primary;
+        border-color: $primary;
+        &:hover {
+            color: #fff;
+            background-color: #503270;
+            border-color: #503270;
+        }
+        & .focus,
+        .btn-purple:focus {
+            box-shadow: 0 0 0 0.2rem rgb(0, 123, 255 / 50%);
+        }
+    }
+    &-gold {
+        color: rgb(0, 0, 0);
+        background-image: linear-gradient(to right top, #ffca23, #ffb200);
+        border-color: transparent;
+        &:hover {
+            color: rgb(0, 0, 0);
+            background-color: #eb9718;
+            border-color: #eb9718;
+        }
+        & .focus,
+        .btn-purple:focus {
+            box-shadow: 0 0 0 0.2rem rgb(0, 123, 255 / 50%);
+        }
+    }
+    &-member-sm {
+        margin-top: -10px;
+        font-size: 8px;
+        padding: top;
+        padding-top: 0.3em !important;
+        padding-bottom: 0.3em !important;
+    }
+}
+
+.btn-check:focus + .btn,
+.btn:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem rgba(142, 47, 251, 0.144);
+}
+
+.btn-check:active + .btn-outline-purple,
+.btn-check:checked + .btn-outline-purple,
+.btn-outline-purple.active,
+.btn-outline-purple.dropdown-toggle.show,
+.btn-outline-purple:active {
+    color: #fff;
+    background-color: $primary;
+    border-color: $primary;
+    transform: scale(1.08, 1.08);
+}

@@ -1,0 +1,29 @@
+.lh-0 {
+    line-height: 0;
+}
+
+.text {
+    &-sm {
+        font-size: 13px;
+    }
+    &-xs {
+        font-size: 10px;
+    }
+    &-purple {
+        color: $primary !important;
+    }
+    &-gold {
+        color: $primary !important;
+        background: $gold-gradient;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    &-120 {
+        left: 120% !important;
+    }
+
+    .fw-bolder {
+        font-weight: 500 !important;
+    }
+
+}

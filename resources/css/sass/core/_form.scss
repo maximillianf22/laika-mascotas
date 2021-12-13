@@ -1,0 +1,11 @@
+.form-control {
+    font-size: 0.9em;
+    &:focus {
+        box-shadow: 0 0 0 0rem rgb(13, 110, 253 / 25%);
+    }
+}
+
+::placeholder {
+    color: $gray-500 !important;
+    font-size: 0.9em;
+}

@@ -1,0 +1,20 @@
+@import "variables";
+
+//--------Components
+@import "./components/carousel";
+@import "./components/banner";
+@import "./components/categories";
+@import "./components/featuredBrands";
+@import "./components/products";
+
+//--------Core
+@import "./core/background";
+@import "./core/border";
+@import "./core/button";
+@import "./core/form";
+@import "./core/text";
+
+//--------Layout
+@import "./layout/core";
+@import "./layout/navbar";
+@import "./layout/responsive";

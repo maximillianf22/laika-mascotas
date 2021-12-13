@@ -1,0 +1,37 @@
+.navbar {
+    &-link {
+        color: #fff;
+        &:hover {
+            color: $gray-500;
+        }
+    }
+    &-search {
+        height: 35px;
+    }
+    &-country-flag {
+        border-radius: 2px;
+        height: 15px;
+    }
+    &-icon-circle {
+        border-radius: 100%;
+        display: inline-block;
+        min-width: 35px;
+        min-height: 35px;
+        background-color: #755697;
+    }
+    &-badge-cart {
+        width: 18px;
+        min-width: fit-content;
+        height: 18px !important;
+        background-color: #ff5e00;
+        color: #fff;
+        font-size: 11px;
+    }
+    //----- Topbar
+    &-icon-img {
+        height: 30px;
+    }
+    &-link-toolbar:active {
+        border-bottom: 2px solid $primary;
+    }
+}
