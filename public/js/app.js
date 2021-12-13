@@ -20160,7 +20160,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
             )])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_16, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", _hoisted_17, " $" + (0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(product.priceMember), 1
             /* TEXT */
             ), _hoisted_18]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
-              type: "radio",
+              type: "check",
               "class": "btn-check",
               name: "options-outlined",
               id: product.name,
