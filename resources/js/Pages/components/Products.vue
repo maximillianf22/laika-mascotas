@@ -46,7 +46,7 @@
                 </span>
               </div>
               <div class="mt-3">
-                <input type="check" class="btn-check" name="options-outlined" :id="product.name" autocomplete="off" checked/>
+                <input type="checkbox" class="btn-check" name="options-outlined" :id="product.name" autocomplete="off" checked/>
                 <label class="btn btn-lg btn-outline-purple text-uppercase text-xs fw-bolder px-2 mx-1" :for="product.name">
                     {{product.reference}}
                 </label>
