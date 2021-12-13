@@ -1,6 +1,6 @@
 <template>
 <div class="row m-auto justify-content-center my-4 container px-0 px-xxl-5">
-    <div class="col-lg-2 col-xl-3 mt-lg-5 px-0 pe-md-5 text-center">
+    <div class="col-lg-12 col-xl-3 mt-lg-5 px-0 pe-lg-5 text-center">
       <span>
         <img class="ml-2 text-right img-fluid" src="https://laika.com.co/assets/LAIKA.png" alt="Logo Laika Footer"/>
         <p class="m-0 mt-2 text-purple">Síguenos en:</p>
@@ -23,21 +23,21 @@
         </div>
       </span>
     </div>
-    <div class="col-lg-3 col-xl-2 mt-2 mt-lg-5 d-none d-lg-block">
+    <div class="col-lg-3 col-xl-2 mt-2 mt-lg-5 d-none d-lg-none d-xl-block">
       <ul class="list-unstyled">
         <li class="text-uppercase text-purple fw-bold mb-2">Acerca de Laika</li>
         <ListAbout/>
       </ul>
     </div>
-    <div class="col-lg-3 col-xl-2 mt-2 mt-lg-5 d-none d-lg-block">
+    <div class="col-lg-3 col-xl-2 mt-2 mt-lg-5 d-none d-lg-none d-xl-block">
       <ul class="list-unstyled">
         <li class="text-uppercase text-purple fw-bold mb-2">Links de Interes</li>
         <ListLinks/>
       </ul>
     </div>
     <FooterMobile />
-    <div class="row col-lg-4 col-xl-5 mt-2 mt-lg-5">
-      <div class="col-lg-12 col-xl-6 d-none d-lg-block">
+    <div class="row col-lg-12 col-xl-5 mt-2 mt-lg-5">
+      <div class="col-lg-12 col-xl-6 d-none d-lg-none d-xl-block">
         <ul class="list-unstyled mb-1">
           <li class="text-uppercase text-purple fw-bold mb-2">Información</li>
           <ListInformation/>

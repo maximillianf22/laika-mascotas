@@ -1,5 +1,5 @@
 <template>
-<div class="accordion accordion-flush px-4 d-block d-sm-block d-md-block d-lg-none" id="accordionFlush">
+<div class="accordion accordion-flush px-4 d-block d-sm-block d-lg-block d-xl-none" id="accordionFlush">
   <div class="accordion-item border-0">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed text-purple bg-white text-uppercase fw-bolder shadow-sm my-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">

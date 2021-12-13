@@ -20314,10 +20314,10 @@ var _hoisted_1 = {
   "class": "row m-auto justify-content-center my-4 container px-0 px-xxl-5"
 };
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"col-lg-2 col-xl-3 mt-lg-5 px-0 pe-md-5 text-center\"><span><img class=\"ml-2 text-right img-fluid\" src=\"https://laika.com.co/assets/LAIKA.png\" alt=\"Logo Laika Footer\"><p class=\"m-0 mt-2 text-purple\">Síguenos en:</p><div class=\"m-0\"><span class=\"filter-contrast-1\"><a class=\"me-2\" href=\"https://www.youtube.com/watch?v=gchln4oix68\" aria-label=\"Youtube\"><i class=\"fab fa-youtube-square fa-2x text-purple\"></i></a></span><span class=\"filter-contrast-1\"><a class=\"me-2\" href=\"https://www.instagram.com/laikamascotas/?hl=es-la\" aria-label=\"Instagram\"><i class=\"fab fa-instagram-square fa-2x text-purple\"></i></a></span><span class=\"filter-contrast-1\"><a class=\"me-2\" href=\"https://es-la.facebook.com/LaikaUniverso/\" aria-label=\"Facebook\"><i class=\"fab fa-facebook-square fa-2x text-purple\"></i></a></span></div></span></div>", 1);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"col-lg-12 col-xl-3 mt-lg-5 px-0 pe-lg-5 text-center\"><span><img class=\"ml-2 text-right img-fluid\" src=\"https://laika.com.co/assets/LAIKA.png\" alt=\"Logo Laika Footer\"><p class=\"m-0 mt-2 text-purple\">Síguenos en:</p><div class=\"m-0\"><span class=\"filter-contrast-1\"><a class=\"me-2\" href=\"https://www.youtube.com/watch?v=gchln4oix68\" aria-label=\"Youtube\"><i class=\"fab fa-youtube-square fa-2x text-purple\"></i></a></span><span class=\"filter-contrast-1\"><a class=\"me-2\" href=\"https://www.instagram.com/laikamascotas/?hl=es-la\" aria-label=\"Instagram\"><i class=\"fab fa-instagram-square fa-2x text-purple\"></i></a></span><span class=\"filter-contrast-1\"><a class=\"me-2\" href=\"https://es-la.facebook.com/LaikaUniverso/\" aria-label=\"Facebook\"><i class=\"fab fa-facebook-square fa-2x text-purple\"></i></a></span></div></span></div>", 1);
 
 var _hoisted_3 = {
-  "class": "col-lg-3 col-xl-2 mt-2 mt-lg-5 d-none d-lg-block"
+  "class": "col-lg-3 col-xl-2 mt-2 mt-lg-5 d-none d-lg-none d-xl-block"
 };
 var _hoisted_4 = {
   "class": "list-unstyled"
@@ -20330,7 +20330,7 @@ var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 );
 
 var _hoisted_6 = {
-  "class": "col-lg-3 col-xl-2 mt-2 mt-lg-5 d-none d-lg-block"
+  "class": "col-lg-3 col-xl-2 mt-2 mt-lg-5 d-none d-lg-none d-xl-block"
 };
 var _hoisted_7 = {
   "class": "list-unstyled"
@@ -20343,10 +20343,10 @@ var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 );
 
 var _hoisted_9 = {
-  "class": "row col-lg-4 col-xl-5 mt-2 mt-lg-5"
+  "class": "row col-lg-12 col-xl-5 mt-2 mt-lg-5"
 };
 var _hoisted_10 = {
-  "class": "col-lg-12 col-xl-6 d-none d-lg-block"
+  "class": "col-lg-12 col-xl-6 d-none d-lg-none d-xl-block"
 };
 var _hoisted_11 = {
   "class": "list-unstyled mb-1"
@@ -20392,7 +20392,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
 var _hoisted_1 = {
-  "class": "accordion accordion-flush px-4 d-block d-sm-block d-md-block d-lg-none",
+  "class": "accordion accordion-flush px-4 d-block d-sm-block d-lg-block d-xl-none",
   id: "accordionFlush"
 };
 var _hoisted_2 = {
